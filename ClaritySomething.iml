@@ -12,10 +12,11 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: com.skadistats:clarity:2.5-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: com.skadistats:clarity-protobuf:4.23" level="project" />
+    <orderEntry type="library" name="Maven: com.skadistats:clarity-protobuf:4.24" level="project" />
     <orderEntry type="library" name="Maven: org.xerial.snappy:snappy-java:1.1.2.6" level="project" />
     <orderEntry type="library" name="Maven: it.unimi.dsi:fastutil:8.3.0" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.13" level="project" />
     <orderEntry type="library" name="Maven: org.atteo.classindex:classindex:3.3" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.6" level="project" />
   </component>
 </module>
